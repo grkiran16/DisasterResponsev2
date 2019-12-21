@@ -14,4 +14,6 @@
 3. Go to http://0.0.0.0:3001/
 
 The page includes 2 visualizations which gives an overview of the training set
+
+
 You can analyze a new message in the 'Enter message' section
